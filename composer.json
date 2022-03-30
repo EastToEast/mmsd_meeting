@@ -1,0 +1,13 @@
+{
+    "name": "pack/response",
+    "description": "pack response",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pack\\Response\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
